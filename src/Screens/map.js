@@ -53,7 +53,7 @@ export default class MapScreen extends React.Component {
 
   //takes string input n sets its coordinates to state
   onClickfetchData() {
-    const apiKey = "AIzaSyBtVK6Z91Qagn4U7-h6x7ofxy9to-pOJRA";
+    const apiKey = "";
     
 
 
